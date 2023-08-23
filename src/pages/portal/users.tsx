@@ -21,7 +21,7 @@ const UsersPage = () => {
         {users.isSuccess &&
           map(users.data.pages, (page) => {
             return map(page.users, (user) => (
-              <Grid key={user.id} item md={3} xs={12}>
+              <Grid key={user.id} item xs={12} sm={6} md={4} lg={3}>
                 <CardUserProfile user={user} />
               </Grid>
             ));
