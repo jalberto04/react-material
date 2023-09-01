@@ -1,4 +1,4 @@
-# React + Typescript + Materaial Coding Assignment
+# React + Typescript + Material Coding Assignment
 
 This project was created for coding assignment. To showcase my knowledge on front-end development with the use
 of react, typescript and material-ui
